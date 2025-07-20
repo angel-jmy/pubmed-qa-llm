@@ -14,3 +14,4 @@ data/pqal_fold8/
 data/pqal_fold9/
 data/test_set.json
 .env
+outputs/
