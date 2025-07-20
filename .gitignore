@@ -1,0 +1,15 @@
+data/ori_pqaa.json
+data/ori_pqau.json
+data/pqaa_dev_set.json
+data/pqaa_train_set.json
+data/pqal_fold0/
+data/pqal_fold1/
+data/pqal_fold2/
+data/pqal_fold3/
+data/pqal_fold4/
+data/pqal_fold5/
+data/pqal_fold6/
+data/pqal_fold7/
+data/pqal_fold8/
+data/pqal_fold9/
+data/test_set.json
